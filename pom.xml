@@ -12,7 +12,7 @@
 
   <properties>
     <resolverVersion>1.7.1</resolverVersion>
-    <mavenVersion>3.8.1</mavenVersion>
+    <mavenVersion>3.8.2</mavenVersion>
   </properties>
 
   <dependencies>
